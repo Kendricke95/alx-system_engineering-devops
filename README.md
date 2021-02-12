@@ -1,1 +1,1 @@
-This README file contains a cdescription for my shell basics project
+This README file contains description for my shell basics project
